@@ -3,7 +3,7 @@ zabbix_agent_packages:
   - zabbix-agent
   - zabbix-sender
   - zabbix-get
-zabbix_agent_Server: zbx.z-hosts.com,zbx-proxy-ngtk01.z-hosts.com,zbx-proxy-ngtk02.z-hosts.com,zbx-proxy-tmc01.z-hosts.com,zbx-proxy-tmc02.z-hosts.com,zbx-proxy-fujitsu01.z-hosts.com,zbx-proxy-hitachi01.z-hosts.com,zbx-proxy-jkt01.z-hosts.com
+zabbix_agent_Server: 127.0.0.1
 zabbix_agent_ListenPort: 10050
 zabbix_agent_ServerActive: ''
 zabbix_agent_HostMetadata: ''
